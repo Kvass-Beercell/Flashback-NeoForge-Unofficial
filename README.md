@@ -1,35 +1,47 @@
-<div align="center">
-  <img src="source/src/main/resources/assets/flashback/icon.png" alt="Flashback Logo" width="128"/>
-  <h1>Flashback [UNOFFICIAL]</h1>
-  <p><strong>Record your gameplay, view the recordings and export cinematic shots.</strong></p>
-  <p><i>An unofficial NeoForge port of the Flashback mod, originally created by Moulberry.</i></p>
-</div>
+# Flashback Unofficial (NeoForge Port)
+
+[![Modrinth](https://img.shields.io/badge/Modrinth-available-00AF5C?style=for-the-badge&logo=modrinth)](https://modrinth.com/mod/flashback-neoforge)
+[![CurseForge](https://img.shields.io/badge/CurseForge-available-F16436?style=for-the-badge&logo=curseforge)](https://www.curseforge.com/minecraft/mc-mods/flashback-neoforge)
+
+> [!IMPORTANT]
+> **Это НЕОФИЦИАЛЬНЫЙ порт для NeoForge.**
+> * Мы не гарантируем стабильность, и некоторые функции могут быть экспериментальными.
+> * **НЕ ПИШИТЕ** автору оригинала (Moulberry) по поводу ошибок в этой версии.
+> * Если вы нашли баг в этом порте, создайте Issue здесь: [GitHub Issues](https://github.com/Kvass-Beercell/Flashback-NeoForge-Unofficial/issues)
+
+Это NeoForge-порт мода **Flashback**, изначально созданного разработчиком **Moulberry**. Цель этого проекта — перенести мощные инструменты записи и создания синематиков в экосистему NeoForge.
+
+### 🛠️ Установка
+1. Установите последнюю версию **NeoForge**.
+2. Скачайте файл мода.
+3. Поместите JAR-файл в папку `.minecraft/mods`.
+4. Запустите игру.
+
+### ⚠️ Известные проблемы (NeoForge)
+* *Здесь можно добавить специфичные для порта баги, если они есть.*
 
 ---
 
-## ⚠️ Disclaimer
+## ===== Original README =====
 
-**This is an UNOFFICIAL port to NeoForge.** 
-The original mod was created by [Moulberry](https://github.com/Moulberry) for Fabric. All credit for the core features, design, and original implementation goes to Moulberry. 
+# Flashback
 
-If you encounter bugs, crashes, or issues while using this version on NeoForge, **DO NOT** report them to the original author's issue tracker. Please report them on this repository's Issues page.
+**Copyright 2024 Moulberry. Do not reupload or redistribute.**
 
-*   **Original Mod (Fabric):** [Moulberry/Flashback](https://github.com/Moulberry/Flashback)
-*   **Port Author:** Kvass
+Flashback is a Minecraft mod which allows you to record your Minecraft gameplay, play it back and create stunning cinematic shots.
 
-## 📖 About
+### How to install
+1. Install Fabric (https://fabricmc.net/wiki/install)
+2. Download Flashback from https://modrinth.com/mod/flashback/
+3. Install Flashback's JAR into your mods folder (.minecraft/mods)
+4. Run the game
 
-Flashback is a replay mod for Minecraft. It allows you to:
-*   Record your gameplay sessions seamlessly in the background.
-*   View the recordings with a powerful in-game editor.
-*   Set up camera paths and export high-quality cinematic shots.
+### Support
+If you need assistance installing or using the mod, feel free to join the discord and ask for help in #support
 
-## 🛠️ Installation
+### Contributing
+Flashback currently does not accept outside contributions.
 
-1.  Download the latest release for your Minecraft version from the [Releases](#) tab or Modrinth/CurseForge.
-2.  Install [NeoForge](https://neoforged.net/).
-3.  Drop the `.jar` file into your Minecraft `.minecraft/mods` folder.
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE), identical to the original project by Moulberry.
+### License
+This project is licensed with a custom license, see LICENSE.md.
+The localization files (`src/main/resources/assets/flashback/lang`) are licensed separately under CC BY 4.0.
