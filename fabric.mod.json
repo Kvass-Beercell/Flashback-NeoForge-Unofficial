@@ -1,0 +1,24 @@
+{
+    "schemaVersion": 1,
+    "id": "lattice",
+    "version": "2.0.1+26.1",
+    "name": "Lattice",
+    "description": "Library for creating configuration GUIs",
+    "authors": [
+        {
+            "name": "Moulberry"
+        }
+    ],
+    "license": "MIT",
+    "icon": "assets/lattice/icon.png",
+    "depends": {
+        "fabricloader": ">=0.18"
+    },
+    "custom": {
+        "modmenu": {
+            "badges": [
+                "library"
+            ]
+        }
+    }
+}

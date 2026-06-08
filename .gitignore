@@ -1,0 +1,13 @@
+*.class
+*.jar
+.gradle/
+build/
+bin/
+*.log
+.settings/
+.project
+.classpath
+.DS_Store
+*.swp
+*.bak
+libs/
